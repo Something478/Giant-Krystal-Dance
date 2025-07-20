@@ -6,7 +6,5 @@ I do **not own** Krystal dance v3 modded, I just **mod** it, I have been approve
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Abdi1515/a/refs/heads/main/GeosHub.lua"))()
 
-And link so u can check out da code:
-https://raw.githubusercontent.com/Abdi1515/a/refs/heads/main/GeosHub.lua.txt
-
-(as geometry keeps his code open source)
+Link:
+https://raw.githubusercontent.com/Abdi1515/a/refs/heads/main/GeosHub.lua
